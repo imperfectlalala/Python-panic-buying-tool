@@ -11,3 +11,5 @@ Sixth, input the start time.
 # About another compressed file
 Add an Chrome package.
 PS: Only for Windows.
+# If the item in JD
+Use the JD version.
